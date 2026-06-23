@@ -1,8 +1,4 @@
-# **Assignment 5 – Video Analysis**
-
-**ECSE 415 – McGill University**
-
-This repository contains the full solution for Assignment 5, including data preparation, YOLOv8 + DeepSORT tracking, MOTA evaluation, and pedestrian counting for the Kaggle competition.
+# **YOLO Video Analysis**
 
 ---
 
@@ -117,14 +113,3 @@ Errors mainly caused by:
 - non-optimized detector threshold.
 
 ---
-
-# **5. Submission Checklist**
-
-✔ Jupyter Notebook (.ipynb) with all code, outputs, and explanations
-✔ `task1_input.mp4`
-✔ `task1.mp4`
-✔ `task2.mp4`
-✔ `task2_count.csv`
-✔ Kaggle submission under your group name
-✔ Markdown explanations included
-✔ Code runs without errors
